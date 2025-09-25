@@ -59,9 +59,11 @@ hobbies: ["Gaming", "Cinema", "Football", "Comedy"]
 ---
 
 <h2 align="center"> 📈 &nbsp;My Github Stats</h2>
-<a align="center" href="https://github.com/HectorF95/github-readme-stats">
+<h1 align="center" >
+<a href="https://github.com/HectorF95/github-readme-stats">
   <img height=200 width=375 align="left" src="https://github-readme-stats.vercel.app/api?username=HectorF95&show_icons=true&theme=aura" />
 </a>
+<h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
