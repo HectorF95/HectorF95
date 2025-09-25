@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
-</p>
-
 <h1 align="center">
   Connect with me! <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"/>
 </h1>
@@ -60,10 +56,5 @@ hobbies: ["Gaming", "Cinema", "Football", "Comedy"]
 
 <h2 align="center"> 📈 &nbsp;My Github Stats</h2>
 <a href="https://github.com/HectorF95/github-readme-stats" >
-  <p align="center"><img height=200 width=375 align="left" src="https://github-readme-stats.vercel.app/api?username=HectorF95&show_icons=true&theme=aura" /><p>
+ <img height=200 width=375 align="left" src="https://github-readme-stats.vercel.app/api?username=HectorF95&show_icons=true&theme=aura" />
 </a>
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
