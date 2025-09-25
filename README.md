@@ -7,20 +7,11 @@
 </h1>
 
 <p align="center">
-<a href="mailto:jonyoner@gmail.com">
+<a href="mailto:hectorofi95@gmail.com">
   <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" alt="Gmail" />
 </a>
-<a href="https://www.linkedin.com/in/jonathan-feijoo-dev/">
+<a href="https://www.linkedin.com/in/hector-fernandez-cabrerizo/">
   <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg"/>
-</a>
-<a href="https://x.com/jony__oner">
-  <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg"/>
-</a>
-<a href="https://www.instagram.com/jony_oner/">
-  <img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg"/>
-</a>
-<a href="https://www.facebook.com/jony.oner/">
-  <img height="50" src="https://github.com/JonyOner/JonyOner/blob/main/4102573_applications_facebook_media_social_icon.png" alt="Facebook" />
 </a>
 </p>
 
